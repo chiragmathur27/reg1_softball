@@ -123,12 +123,6 @@ function SIGNUPBASEBALL32(props) {
               alt="Screenshot 2023-01-23 at 8.32 1"
             />
 
-            {/* <div className="place akshar-normal-black-19px">
-              <a href="http://35.72.8.63:1234/">
-                <p>{place}</p>
-              </a>
-            </div> */}
-
             <p
               className="place akshar-normal-black-19px"
               onClick={onClick}
