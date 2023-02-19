@@ -40,7 +40,7 @@ const sIGNUPBASEBALL32Data = {
     emailAddress2: "Email Address",
     mobileNumber: "Mobile Number",
     pinCodeOnlyAvailableForBaltimore: "Pin Code (only available for Baltimore)",
-    iHavePreviousExperienceInBaseball: "I have previous experience in Baseball.",
+    iHavePreviousExperienceInBaseball: "I have previous experience in Softball.",
     spanText1: "I agree to the ",
     spanText2: "Terms of Service",
     spanText3: " ",
