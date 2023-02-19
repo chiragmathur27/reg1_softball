@@ -132,7 +132,7 @@ function SIGNUPBASEBALL32(props) {
                 className="place akshar-normal-black-19px"
                 href="http://35.72.8.63:1234/"
               >
-                HOME
+                Home
               </a> */}
               HOME
             </p>
