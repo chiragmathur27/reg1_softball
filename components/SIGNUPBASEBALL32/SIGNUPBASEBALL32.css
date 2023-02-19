@@ -325,10 +325,21 @@
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
+  height: 50%;
+  width: 50%;
+  position: absolute;
+}
+
+#img-softball{
+  position: relative;
+  margin-top: 70px;
+  width: 60.125em;
+  height:56.8125em;
+  left: -10px;
 }
 
 .sign-up {
-  left: 840px;
+  left: 1150px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
